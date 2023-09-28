@@ -9,6 +9,8 @@ Hi there! 👋 I'm Suraj Shah, a passionate learner from Delhi, India. Welcome t
 
 ## Skills
 
+- 💻 Html
+- 💻 Css
 - 💻 Python
 - 💻 Basic C programming language
 
